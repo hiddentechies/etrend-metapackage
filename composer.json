@@ -1,0 +1,12 @@
+{
+    "name": "hiddentechies/etrend-metapackage",
+    "description": "Etrend Lite Magento 2 Theme",
+    "type": "metapackage",
+    "version": "1.0.0",
+    "license": "OSL-3.0",
+    "require": {
+        "hiddentechies/etrend-lite": "^1.0.0",
+        "hiddentechies/base": "^1.0.",
+        "hiddentechies/etrend-theme-module": "^1.0.0",
+    }
+}
